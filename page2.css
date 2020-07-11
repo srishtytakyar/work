@@ -1,0 +1,85 @@
+body{margin:0; background-color:#f4f9f4;  }
+     h1{font-family:  'Courgette', cursive; font-size: 3rem; margin: 0 auto 30px auto; color: #90303d;width :20%;}
+     h2{
+     	color: #90303d; font-family: 'Ubuntu', sans-serif; font-size:2rem; margin:0 auto 50px auto ; width: 40% 
+     }
+     p{ color: #545454 ; margin: auto; line-height: 2; font-family:"Comic Sans MS", cursive, sans-serif; }
+    
+     h3{color:#f95959; font-family: "Comic Sans MS", cursive, sans-serif; margin:80px 0 10px 0;}
+
+   }
+ 
+ .p{color:#3a4750; }
+     hr{ width:3%; margin:100px auto 100px auto;border: dotted;
+			border-color: #a6aa9c; border-width: 5px; border-bottom: none;
+			
+			}
+     
+      img:hover {background-color:gold;
+      	opacity: 0.5;} 
+      img{margin: 40px;}
+
+      .d{
+      	width: 30%;
+      	margin: 10px 30px auto auto;
+      	float: left;
+      
+      }
+       .veiw{
+      	width: 27%;
+      	margin: 10px auto auto 20px;
+      	float: right;
+      
+      }
+      .next{ color:#f95959;
+      	text-decoration: none;
+      }
+      .next:hover{
+      	color: #45b29a;
+      }
+
+    .about{ width:40%;
+    	margin: auto;
+    	text-align: left;
+    }
+      .t{text-align: center; font-family:"Comic Sans MS", cursive, sans-serif; position: relative; padding-top: 100px; margin: 0 ; background-color: #e0ebe8;}
+     .m{   margin:40px 0 0 80px; text-align: center ; font-family:"Comic Sans MS", cursive, sans-serif;  background-color: #f4f9f4;}
+     .l{  margin:auto ; width : 40%;text-align: center;  font-family:"Comic Sans MS", cursive, sans-serif; background-color: #f4f9f4;
+       position: relative;}
+       .bc{position: absolute; left:350px;}
+
+
+
+       .tc{position: absolute;
+       	right: 350px; top:50px;}
+
+        .p{color:#3a4750; font-size: 18px; width: 30%; margin: auto; }
+ 
+
+  .btn{ margin-top: 50px;
+	
+	background:linear-gradient(to bottom, #d0451b 10%, #bc3315 100%);
+	
+	border-radius:3px;
+	border:1px solid #942911;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Comic Neue', cursive;
+	font-size:14px;
+	padding:8px 27px;
+	text-decoration:none;
+	text-shadow:-1px 4px 1px #854629;
+ }
+ .btn:hover {
+	background:linear-gradient(to bottom,#45b29a 3%, #fff 100%);
+	
+ }
+ .btn:active {
+	position:relative;
+	top:1px;
+ }
+ .f{ height: 70px; font-size: 12px; margin:50px 0 0 0 ;background-color: #f95959 ;}
+ .rights{ position: absolute; margin: 20px auto auto 650px; ; color: black; 
+ }
+
